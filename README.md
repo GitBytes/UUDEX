@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # UUDEX: Universal Utility Data Exchange
 
 The standard used for sharing power system measurement data between utility control centers in the electric power sector is the Inter-control Center Communications Protocol (ICCP). ICCP is over 20 years old and uses protocols and technology that were state-of-the-art in 1995 when ICCP was initially developed. As a result, ICCP is an inflexible, difficult-to-configure toolset that includes security as a rarely enabled add-on. 
